@@ -2,7 +2,8 @@
 
 This is Bennet Weiss' and Nico Alt's project for Computational Physics created in 2020.
 More information can be found in
-[Nico's blog post](https://nico.dorfbrunnen.eu/posts/2020/physics/).
+[Nico's blog post](https://nico.dorfbrunnen.eu/posts/2020/physics/)
+and in [the report](report.pdf).
 
 ## Running
 
